@@ -1,0 +1,66 @@
+* {
+    font-family: Inter;
+    color: grey;
+    
+    
+}
+.logo{
+    display: flex;
+    width: 268px;
+    height: 33px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin:40px 180px;
+    align-items: center;
+}
+.lhs{
+    display: flex;
+    gap: 20px;
+    padding-right: 40px;
+    font-size: 22px;
+}
+
+.topsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px;
+    
+}
+
+#uppersection{
+    height: 60px;
+}
+.lowersection{
+    font-size: 40px;
+    font-weight: 30px;
+}
+ 
+.twopara{
+    color: #747474;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  padding-left: 260px;
+  padding-right: 280px;
+  width: 100%;
+  justify-content: space-between;
+
+    
+}
+.fscoln{
+    padding-right: 30px;
+}
+
+ p{
+    display: block;
+    margin-block-start: 1em ;
+    margin-block-end: 1em ;
+    margin-inline-start:0px ;
+    margin-inline-end:0px ;
+    unicode-bidi: isolate;
+}
